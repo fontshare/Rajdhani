@@ -1,0 +1,10 @@
+name:Rajdhani
+weight:700
+win_a:890
+win_d:240
+typo_a:890
+typo_d:-240
+hhea_a:890
+hhea_d:-240
+hhea_l:80
+typo_l:80
